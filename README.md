@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 This is the finance tracker app from the Complete Ruby on Rails Developer course by malik
+we will develop it 
